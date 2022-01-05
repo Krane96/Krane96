@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="www.martinlk.no"><img src="banner.png" alt="edisonlee55 Banner"></a>
+  <a href="www.martinlk.no"><img src="league of legends wild rift ios android teemo full body_jpg_820.webp" alt="edisonlee55 Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Martin Lian Krane</a>!</h1>
