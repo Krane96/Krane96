@@ -9,9 +9,9 @@
 
 <p align=center>
   <a href="https://github.com/Krane96">
-    <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/Krane96/Krane96?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Terabyte17?tab=repositories">
+  <a href="https://github.com/Krane96?tab=repositories">
     <img src="https://badges.pufler.dev/repos/Terabyte17?style=flat-square&color=black&logo=github">
   </a>
 </p>
