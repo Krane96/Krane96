@@ -2,13 +2,13 @@
 <p align="center">I'm currently a student at Noroff in Bergen, Norway✨ Here I am studying Frontend Development and am soon done with my 2 years of it. 
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<p align="center">When I'm not studying, i'm either in the gym, watching netflix or gaming. </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<p align="center"><a href="https://www.linkedin.com/in/Krane96/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 </p>
 
 <p align=center>
-  <a href="https://github.com/Terabyte17">
+  <a href="https://github.com/Krane96">
     <img src="https://badges.pufler.dev/visits/Terabyte17/Terabyte17?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/Terabyte17?tab=repositories">
